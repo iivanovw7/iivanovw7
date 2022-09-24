@@ -1,11 +1,7 @@
 
 ### Hi, I’m Igor Ivanov 👋
----
-<p align="start">
-  <a href="https://t.me/iivanovw7">Telegram</a> •
-  <a href="https://twitter.com/_IvanovIgor">Twitter</a>
-</p>
----
+- [Telegram](https://t.me/iivanovw7)
+- [Twitter](https://twitter.com/_IvanovIgor)
 [![iivanovw7’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iivanovw7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
