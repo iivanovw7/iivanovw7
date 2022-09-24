@@ -1,6 +1,7 @@
 <p align="start">
   <a href="https://t.me/iivanovw7">Telegram</a> •
   <a href="https://twitter.com/_IvanovIgor">Twitter</a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iivanovw7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
