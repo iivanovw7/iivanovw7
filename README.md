@@ -4,7 +4,7 @@
 [Twitter](https://twitter.com/_IvanovIgor)
 
 
-[![iivanovw7’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iivanovw7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![iivanovw7’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iivanovw7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iivanovw7&show_icons=true&theme=dark)
